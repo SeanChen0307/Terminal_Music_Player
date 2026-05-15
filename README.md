@@ -41,3 +41,5 @@
 ### 2. 运行播放器
 ```powershell
 python music_player.py
+
+# 特别感谢：赵🦊
