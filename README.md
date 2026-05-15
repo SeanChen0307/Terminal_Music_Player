@@ -1,4 +1,4 @@
-# 🎵 Terminal Music Player v10.1 (Windows)
+# 🎵 Terminal Music Player (Windows)
 
 ---
 
